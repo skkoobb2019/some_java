@@ -1,6 +1,6 @@
 <project>
 
-    <property name="lib.dir" value="/usr/share/ant/lib" />
+    <property name="lib.dir" value="/usr/share/ant/" />
     <path id="classpath">
         <pathelement location="${lib.dir}/ant-junit4.jar"/>
         <pathelement location="${lib.dir}/ant-junit"/>
